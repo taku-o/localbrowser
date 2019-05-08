@@ -1,0 +1,16 @@
+{
+  "name": "localbrowser",
+  "productName": "localbrowser",
+  "description": "WebBrowser for localhost.",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "taku-o <mail@nanasi.jp> (https://nanasi.jp/)",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "4.2.0"
+  }
+}
